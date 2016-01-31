@@ -8,9 +8,7 @@ target
 build
 out
 .gradle
-wrapper
-gradlew
-gradlew.bat
+
 
 # Libraries
 *.lib
